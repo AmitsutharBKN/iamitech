@@ -22,7 +22,7 @@ function Header() {
       <header className={scrolled ? 'scrolled' : ''}>
         <Navbar className='pageHeader'>
           <Container fluid>
-            <Navbar.Brand to="/">Amit Suthar</Navbar.Brand>
+            <Navbar.Brand>Amit Suthar</Navbar.Brand>
             <Navbar.Toggle />
             <Navbar.Collapse className="justify-content-end navMenu-links">
               <Link to="/">Home</Link >
