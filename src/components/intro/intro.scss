@@ -1,0 +1,15 @@
+@import '../../assets/css/route';
+
+.section-box {
+	@include comman;
+	padding: 100px 0px;
+    }
+
+.homeIntro-text {
+	color: $color_4;
+	}
+
+@media (max-width: 991.98px) {
+	.section-box { padding: 50px 0px; }
+	}
+	

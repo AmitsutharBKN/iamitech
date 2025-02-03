@@ -1,0 +1,63 @@
+@import '../../assets/css/route';
+
+ul.socialMedia-box {
+    position: fixed;
+    top: 50%;
+    right: -120px;
+    z-index: 999;
+    }
+    
+ul.socialMedia-box>li {
+    position: relative;
+    display: block;
+    }
+    
+ul.socialMedia-box>li h6 {
+    position: relative;
+    color: $color_1;
+    rotate: 90deg;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin: 0px 0px 0px -190px;
+    padding: 0px 300px 0px 0px;
+    }
+
+ul.socialMedia-box>li h6::before {
+    position: absolute;
+    content: '';
+    top: -32px;
+    left: 168px;
+    width: 1px;
+    height: 80px;
+    rotate: 90deg;
+    background: $color_1
+    }
+
+ul.socialMedia-box>li>a {
+    @include comman;
+    width: 40px;
+    height: 40px;
+    font-size: 15px;
+    color: $color_1;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 40px;
+    }
+    
+ul.socialMedia-box>li>a:hover {
+    color: $color_2;
+    background: $color_1;
+    }
+
+@media (max-width: 1399.98px) {
+    ul.socialMedia-box>li h6 { font-size: 12px; margin: 0px 0px 0px -125px;  padding: 0px 170px 0px 0px; } 
+    ul.socialMedia-box { right: -110px; }
+    ul.socialMedia-box>li>a { width: 24px; line-height: 35px; height: 35px; font-size: 14px; }
+    ul.socialMedia-box>li h6::before { top: -9px; left: 130px; height: 35px; }
+    }
+
+@media (max-width: 991.98px) {
+    ul.socialMedia-box { right: -120px; }
+    }

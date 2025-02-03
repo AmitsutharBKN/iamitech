@@ -1,0 +1,13 @@
+.footerWrp {
+  position: relative;
+  display: block;
+  padding: 30px 0px;
+  background: #404164;
+}
+
+.copyright {
+  position: relative;
+  display: block;
+  color: #cfcfcf;
+  text-align: center;
+}/*# sourceMappingURL=footer.css.map */
