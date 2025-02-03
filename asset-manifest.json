@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iamitech/static/css/main.46a9fd74.css",
+    "main.js": "/iamitech/static/js/main.9e339a96.js",
+    "static/media/mainSection-bg.jpg": "/iamitech/static/media/mainSection-bg.7ff339223ccf3c2bfc72.jpg",
+    "static/media/blogBG.jpg": "/iamitech/static/media/blogBG.31438deb8c2d29b12163.jpg",
+    "static/media/downArrow.png": "/iamitech/static/media/downArrow.701bd3ec8f440d510846.png",
+    "index.html": "/iamitech/index.html",
+    "main.46a9fd74.css.map": "/iamitech/static/css/main.46a9fd74.css.map",
+    "main.9e339a96.js.map": "/iamitech/static/js/main.9e339a96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a9fd74.css",
+    "static/js/main.9e339a96.js"
+  ]
+}
