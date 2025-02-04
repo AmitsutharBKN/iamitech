@@ -21,6 +21,11 @@ header.scrolled {
   text-transform: uppercase;
 }
 
+.navMenu-links {
+  visibility: hidden;
+  display: none !important;
+}
+
 .navMenu-links a {
   position: relative;
   display: block;
