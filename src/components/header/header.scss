@@ -27,11 +27,6 @@ header.scrolled  {
     text-transform: uppercase;
     }
 
-.navMenu-links {
-    visibility: hidden;
-    display: none !important;
-    }
-
 .navMenu-links a {
     @include comman;
     color: $color_1;
