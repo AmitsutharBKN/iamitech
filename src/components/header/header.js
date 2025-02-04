@@ -1,6 +1,6 @@
-import { Container, Navbar } from 'react-bootstrap';
+import { Container, Nav, Navbar } from 'react-bootstrap';
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import {Link} from 'react-router-dom';
 import '../header/header.css';
 
 function Header() {
@@ -22,14 +22,14 @@ function Header() {
       <header className={scrolled ? 'scrolled' : ''}>
         <Navbar className='pageHeader'>
           <Container fluid>
-            <Navbar.Brand>Amit Suthar</Navbar.Brand>
+            <Navbar.Brand to="/">Amit Suthar</Navbar.Brand>
             <Navbar.Toggle />
-            <Navbar.Collapse className="justify-content-end navMenu-links">
+             <Navbar.Collapse className="justify-content-end navMenu-links">
               <Link to="/">Home</Link >
               <Link to="/about-us">About Us</Link >
               <Link to="/portfolio">Portfolio</Link >
               <Link to="/contact">Contact</Link >
-            </Navbar.Collapse>
+            </Navbar.Collapse> 
           </Container>
         </Navbar>
       </header>
