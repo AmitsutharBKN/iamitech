@@ -4,7 +4,6 @@ import Banner from './components/banner/banner.js';
 import Intro from './components/intro/intro.js';
 import Skils from './components/skils/skils.js';
 import Socialmedia from './components/socialMedia/socialMedia.js';
-import Moreinfo from './components/moreInfo/moreInfo.js';
 import Footer from './components/footer/footer.js';
 import { Container, Row } from 'react-bootstrap';
 
@@ -23,7 +22,6 @@ function Home() {
           </div>
         </Row>
       </Container>
-      <Moreinfo/>
       <Socialmedia/>
       <Footer/>
     </>

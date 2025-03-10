@@ -23,21 +23,17 @@ header.scrolled  {
     font-family: "Jersey 25 Charted", sans-serif;
     letter-spacing: 1px;
     color: $color_1 !important;
-    font-size: 60px !important;
+    font-size: 50px !important;
     text-transform: uppercase;
     }
 
-.navMenu-links {
-    visibility: hidden;
-    display: none !important;
-    }
-
 .navMenu-links a {
+    opacity: 0;
     @include comman;
     color: $color_1;
     font-size: 16px;
     font-weight: 500;
-    margin-left: 40px;
+    margin: 0px 20px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     }

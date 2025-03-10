@@ -1,4 +1,4 @@
-import { Container, Nav, Navbar } from 'react-bootstrap';
+import { Container, Navbar } from 'react-bootstrap';
 import React, { useState, useEffect } from 'react';
 import {Link} from 'react-router-dom';
 import '../header/header.css';
@@ -24,7 +24,7 @@ function Header() {
           <Container fluid>
             <Navbar.Brand to="/">Amit Suthar</Navbar.Brand>
             <Navbar.Toggle />
-             <Navbar.Collapse className="justify-content-end navMenu-links">
+             <Navbar.Collapse className="justify-content-center navMenu-links">
               <Link to="/">Home</Link >
               <Link to="/about-us">About Us</Link >
               <Link to="/portfolio">Portfolio</Link >

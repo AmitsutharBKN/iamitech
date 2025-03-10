@@ -1,4 +1,5 @@
 import '../banner/banner.css';
+import Moreinfo from '../moreInfo/moreInfo.js';
 
 function Banner() {
   return (
@@ -15,9 +16,8 @@ function Banner() {
         <div className='bannerTitle-text'>
           <p>WE ARE A CREATIVE STUDIO, SPECIALIZED IN STRATEGY, BRANDING  DESIGN, AND DEVELOPMENT. OUR WORK IS ALWAYS AT THE INTERSECTION  OF DESIGN AND TECHNOLOGY.</p>
         </div>
+        <Moreinfo/>
       </div>
-
-      <div className='downArrow-scroll'><img src={require('../../assets/images/downArrow.png')} alt=''/></div>
     </div>    
   );
 }
