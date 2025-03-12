@@ -107,10 +107,6 @@ p:last-child {
   margin: 0px 0px;
 }
 
-.row.grid-10 { margin-top: -10px; margin-bottom: -10px; margin-left: -10px; margin-right: -10px; }
-.grid-10>.col, .grid-10>[class*="col-"] { padding-top: 10px; padding-bottom: 10px; }
-.gutters-10>.col, .gutters-10>[class*="col-"] { padding-right: 10px; padding-left: 10px; }
-
 .link-btn {
   position: relative;
   display: block;

@@ -17,7 +17,7 @@ function Moreinfo() {
                 <h2>24/7</h2>
                 <p>support available to assist you</p>
               </div>
-            </div>
+            </div> 
             <div className='col-md-3 col-sm-6'>
               <div className='home_banenrInfo-box pageClass'>
                 <h2>50+</h2>
