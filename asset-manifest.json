@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/iamitech/static/css/main.4adbd25a.css",
+    "main.css": "/iamitech/static/css/main.40658767.css",
     "main.js": "/iamitech/static/js/main.8894df8b.js",
     "static/media/mainSection-bg.jpg": "/iamitech/static/media/mainSection-bg.7ff339223ccf3c2bfc72.jpg",
     "index.html": "/iamitech/index.html",
-    "main.4adbd25a.css.map": "/iamitech/static/css/main.4adbd25a.css.map",
+    "main.40658767.css.map": "/iamitech/static/css/main.40658767.css.map",
     "main.8894df8b.js.map": "/iamitech/static/js/main.8894df8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4adbd25a.css",
+    "static/css/main.40658767.css",
     "static/js/main.8894df8b.js"
   ]
 }
