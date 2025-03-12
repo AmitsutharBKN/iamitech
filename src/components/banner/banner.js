@@ -15,7 +15,7 @@ function Banner() {
         </h1>
         <div className='bannerTitle-text'>
           <p>WE ARE A CREATIVE STUDIO, SPECIALIZED IN STRATEGY, BRANDING  DESIGN, AND DEVELOPMENT. OUR WORK IS ALWAYS AT THE INTERSECTION  OF DESIGN AND TECHNOLOGY.</p>
-        </div>
+        </div> 
         <Moreinfo/>
       </div>
     </div>    
