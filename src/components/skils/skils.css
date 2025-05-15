@@ -1,7 +1,8 @@
 .skils-box {
   position: relative;
   display: block;
-  padding: 0px 0px 70px;
+  padding: 70px 0px;
+  background: rgba(255, 255, 255, 0.04);
 }
 
 .skilsItem-box {

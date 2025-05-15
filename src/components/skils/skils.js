@@ -7,7 +7,7 @@ function Skils() {
       <Container>
         <div className='pageTitle'>
           <h2 className='text-white'>professional skills</h2>
-          <p>A Lead UX & UI designer based in India</p>
+          <p>Crafting intuitive digital experiences with precision and creativity</p>
         </div>
 
         <ul className='skills-listing'>
