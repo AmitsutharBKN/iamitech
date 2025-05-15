@@ -10,7 +10,7 @@ function Portfolio() {
           <p>Delivering pixel-perfect, user-centered design solutions</p>
         </div>
 
-        <Row className='grid-10 gutters-10'>
+        <Row className='grid-10 gutters-10 portfolio_grid'>
           <div className='col-lg-3 col-md-6'>
             <div className='portfolio_itemBox'>
               <a href='https://www.each-a-cup.com/' target='_black'>

@@ -52,7 +52,29 @@
   text-transform: uppercase;
 }
 
+@media (max-width: 767.98px) {
+  .portfolio_grid > .col-md-6 {
+    width: 50%;
+  }
+  .portfolio_grid.grid-10 {
+    margin-top: -5px;
+    margin-bottom: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+  .portfolio_grid.grid-10 > .col, .portfolio_grid.grid-10 > [class*=col-] {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .portfolio_grid.gutters-10 > .col, .portfolio_grid.gutters-10 > [class*=col-] {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+}
 @media (max-width: 575.98px) {
+  .portfolio-visitBtn {
+    font-size: 10px;
+  }
   .portfolio-box {
     padding-right: 20px;
   }
