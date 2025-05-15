@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/iamitech/static/css/main.b3710c56.css",
+    "main.css": "/iamitech/static/css/main.3aca791e.css",
     "main.js": "/iamitech/static/js/main.e887152e.js",
     "static/media/mainSection-bg.jpg": "/iamitech/static/media/mainSection-bg.7ff339223ccf3c2bfc72.jpg",
     "static/media/portfolio-pic21.jpg": "/iamitech/static/media/portfolio-pic21.ef187f4dc51f53bc877d.jpg",
@@ -29,11 +29,11 @@
     "static/media/portfolio-pic11.jpg": "/iamitech/static/media/portfolio-pic11.5db55dd86256bea3ad40.jpg",
     "static/media/portfolio-pic24.jpg": "/iamitech/static/media/portfolio-pic24.5b15bfea2b03e9278724.jpg",
     "index.html": "/iamitech/index.html",
-    "main.b3710c56.css.map": "/iamitech/static/css/main.b3710c56.css.map",
+    "main.3aca791e.css.map": "/iamitech/static/css/main.3aca791e.css.map",
     "main.e887152e.js.map": "/iamitech/static/js/main.e887152e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3710c56.css",
+    "static/css/main.3aca791e.css",
     "static/js/main.e887152e.js"
   ]
 }
