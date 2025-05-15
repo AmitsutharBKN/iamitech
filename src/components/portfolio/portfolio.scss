@@ -55,6 +55,10 @@
 	text-transform: uppercase;
 	}
 
+@media (max-width: 991.98px) {
+	.portfolio-box { padding: 50px 0px; }
+	}	
+
 @media (max-width: 767.98px) {
 	.portfolio_grid>.col-md-6 { width: 50%; }
 	.portfolio_grid.grid-10 { margin-top: -5px; margin-bottom: -5px; margin-left: -5px; margin-right: -5px; }
