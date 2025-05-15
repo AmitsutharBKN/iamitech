@@ -1,14 +1,39 @@
 {
   "files": {
-    "main.css": "/iamitech/static/css/main.40658767.css",
-    "main.js": "/iamitech/static/js/main.8894df8b.js",
+    "main.css": "/iamitech/static/css/main.fd2d61ce.css",
+    "main.js": "/iamitech/static/js/main.3c1ae36a.js",
     "static/media/mainSection-bg.jpg": "/iamitech/static/media/mainSection-bg.7ff339223ccf3c2bfc72.jpg",
+    "static/media/portfolio-pic21.jpg": "/iamitech/static/media/portfolio-pic21.ef187f4dc51f53bc877d.jpg",
+    "static/media/portfolio-pic18.jpg": "/iamitech/static/media/portfolio-pic18.4c5ee1cdcc76a6da667a.jpg",
+    "static/media/portfolio-pic19.jpg": "/iamitech/static/media/portfolio-pic19.08a7fdabd6ba431a3212.jpg",
+    "static/media/portfolio-pic2.jpg": "/iamitech/static/media/portfolio-pic2.daab2fdb2ff56b369137.jpg",
+    "static/media/portfolio-pic17.jpg": "/iamitech/static/media/portfolio-pic17.ea8a0cfccb129a14e31b.jpg",
+    "static/media/portfolio-pic13.jpg": "/iamitech/static/media/portfolio-pic13.0282cd0faa6529bb083d.jpg",
+    "static/media/portfolio-pic15.jpg": "/iamitech/static/media/portfolio-pic15.36ac66af0f4735290c5a.jpg",
+    "static/media/portfolio-pic3.jpg": "/iamitech/static/media/portfolio-pic3.b9163ad42deecaaff4ca.jpg",
+    "static/media/portfolio-pic16.jpg": "/iamitech/static/media/portfolio-pic16.790f07d055f019bbb969.jpg",
+    "static/media/portfolio-pic25.jpg": "/iamitech/static/media/portfolio-pic25.5d5a6cfd28604d4468c0.jpg",
+    "static/media/portfolio-pic4.jpg": "/iamitech/static/media/portfolio-pic4.77354fb8edfbb04e9635.jpg",
+    "static/media/portfolio-pic1.jpg": "/iamitech/static/media/portfolio-pic1.714e5a4b8234745783b5.jpg",
+    "static/media/portfolio-pic22.jpg": "/iamitech/static/media/portfolio-pic22.036bc0bee4faf6788db1.jpg",
+    "static/media/portfolio-pic12.jpg": "/iamitech/static/media/portfolio-pic12.a14b8cfdcc32531fba3a.jpg",
+    "static/media/portfolio-pic9.jpg": "/iamitech/static/media/portfolio-pic9.9fa91ee636430529f2d4.jpg",
+    "static/media/portfolio-pic5.jpg": "/iamitech/static/media/portfolio-pic5.8433825b6cdbe7444697.jpg",
+    "static/media/portfolio-pic10.jpg": "/iamitech/static/media/portfolio-pic10.141ca323a1b62e392115.jpg",
+    "static/media/portfolio-pic6.jpg": "/iamitech/static/media/portfolio-pic6.35296ad732831a069466.jpg",
+    "static/media/portfolio-pic14.jpg": "/iamitech/static/media/portfolio-pic14.63d797b30b1de182f719.jpg",
+    "static/media/portfolio-pic20.jpg": "/iamitech/static/media/portfolio-pic20.f95bd235078c1228fc1d.jpg",
+    "static/media/portfolio-pic23.jpg": "/iamitech/static/media/portfolio-pic23.f73b99bd0d57e225629d.jpg",
+    "static/media/portfolio-pic7.jpg": "/iamitech/static/media/portfolio-pic7.f6aa8d1c8f7e742b8ecf.jpg",
+    "static/media/portfolio-pic8.jpg": "/iamitech/static/media/portfolio-pic8.f12b04a73c1c74a08b98.jpg",
+    "static/media/portfolio-pic11.jpg": "/iamitech/static/media/portfolio-pic11.5db55dd86256bea3ad40.jpg",
+    "static/media/portfolio-pic24.jpg": "/iamitech/static/media/portfolio-pic24.5b15bfea2b03e9278724.jpg",
     "index.html": "/iamitech/index.html",
-    "main.40658767.css.map": "/iamitech/static/css/main.40658767.css.map",
-    "main.8894df8b.js.map": "/iamitech/static/js/main.8894df8b.js.map"
+    "main.fd2d61ce.css.map": "/iamitech/static/css/main.fd2d61ce.css.map",
+    "main.3c1ae36a.js.map": "/iamitech/static/js/main.3c1ae36a.js.map"
   },
   "entrypoints": [
-    "static/css/main.40658767.css",
-    "static/js/main.8894df8b.js"
+    "static/css/main.fd2d61ce.css",
+    "static/js/main.3c1ae36a.js"
   ]
 }
