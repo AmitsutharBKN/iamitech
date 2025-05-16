@@ -13,6 +13,18 @@ function Portfolio() {
         <Row className='grid-10 gutters-10 portfolio_grid'>
           <div className='col-lg-3 col-md-6'>
             <div className='portfolio_itemBox'>
+              <a href='https://www.universalmusic.sg/' target='_black'>
+                <div className='img-holder'>
+                  <figure><img src={require('../../assets/images/portfolio-pic26.jpg')} alt='Amit Suthar'/></figure>
+                </div>
+                <div className='portfolio-mask-container'>
+                  <div className='portfolio-visitBtn'>Visit Site</div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div className='col-lg-3 col-md-6'>
+            <div className='portfolio_itemBox'>
               <a href='https://www.each-a-cup.com/' target='_black'>
                 <div className='img-holder'>
                   <figure><img src={require('../../assets/images/portfolio-pic11.jpg')} alt='Amit Suthar'/></figure>
