@@ -12,7 +12,7 @@ function Footer() {
               <ul class="footerCompany-info">
                 <li>
                     <div class="footIcon-box"><img src={require('../../assets/images/contact-icon1.png')} alt="Amit Suthar"/></div> 
-                    Olg Ginani, Near Pugal house, <br/> Bikaner (Raj.), <br/> India 
+                    Old Ginnani, Near Pugal house, <br/> Bikaner (Raj.), <br/> India 
                 </li>
                 <li>
                     <div class="footIcon-box"><img src={require('../../assets/images/contact-icon2.png')} alt="Amit Suthar"/></div> 
